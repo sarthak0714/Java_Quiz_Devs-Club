@@ -1,0 +1,9 @@
+package QuizContent;
+
+public class Main {
+    public static void main(String [] args){
+
+        Quiz q =new Quiz();
+        q.start();
+    }
+}
